@@ -1,4 +1,4 @@
-## TED-ED YouTubee Channel Analytics in MongoDB
+## TED-ED YouTube Channel Analytics in MongoDB
 
 This project helps to understand YouTube Channel videos by processing the API data in MongoDB and AWS S3.
 
